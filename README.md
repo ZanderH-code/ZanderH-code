@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Zander**, a developer from Sudbury, CA, currently studying at Laurentian University. I'm passionate about creating innovative applications and exploring the intersection of technology and gaming.
+I'm **Zander**, currently studying at Laurentian University. I'm passionate about creating innovative applications and exploring the intersection of technology and gaming.
 
 ## Tech Stack
 
