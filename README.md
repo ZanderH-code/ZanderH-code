@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm **Zander**, a Software Engineering student at Laurentian University.
-I focus on building reliable, user-centered web applications and practical developer workflows.
+I'm **Zander**, currently studying at Laurentian University. I'm passionate about creating innovative applications and exploring the intersection of technology and gaming.
 
 ## Tech Stack
 
@@ -11,6 +10,6 @@ I focus on building reliable, user-centered web applications and practical devel
 - **AI/ML:** OpenAI API, LangChain, Vector Databases
 - **DevOps:** Docker, Git, GitHub Actions
 - **Tools:** VS Code, Postman, pgAdmin
-- **Interests:** Full-stack Engineering, AI Applications, Product-focused Development
+- **Interests:** AI/ML, Game Development, Web Applications
 
 ---
