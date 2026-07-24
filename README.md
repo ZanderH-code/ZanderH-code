@@ -10,9 +10,9 @@ Software developer and MSc Computational Science student in Canada. I build prac
 
 Turns structured logs into deterministic, request-centric timelines without uploading sensitive data. Built with React, TypeScript, Web Workers, automated tests, CI, security controls, and a [live demo](https://zanderh-code.github.io/spanless/).
 
-### [Riftbound Hub](https://github.com/ZanderH-code/riftboundoc) — searchable rules knowledge base
+### [RiftRef](https://riftref.org/) — connected Riftbound reference
 
-Makes official FAQ, errata, and game rules easier to search and navigate. Combines an Astro/TypeScript interface with Python-based data tooling and a [deployed site](https://zanderh-code.github.io/riftboundoc/).
+Links official cards, FAQ, errata, rule files, and articles so players can start from a card and jump straight to the official context around it. Built with Astro/TypeScript and Python-based data tooling.
 
 ### [OpenClaw Vector Memory](https://github.com/ZanderH-code/openclaw-vector-memory) — semantic memory for AI assistants
 
