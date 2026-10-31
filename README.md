@@ -1,5 +1,7 @@
 # Zander Huang
 
+[Personal website](https://zanderhuang.dev)
+
 Software developer and MSc Computational Science student in Canada. I build practical developer tools and data-driven web applications, with an emphasis on clear product thinking, privacy, and reliable delivery.
 
 **TypeScript · React · Python · Node.js · SQL · GitHub Actions**
