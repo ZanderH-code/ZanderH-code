@@ -4,9 +4,13 @@
 
 Software developer and MSc Computational Science student based in Canada. I build practical developer tools, data-driven applications, and AI-native products with an emphasis on **local-first privacy, engineering rigor, and clean product craft**.
 
-```text
-TypeScript · React 19 · Python · Node.js · Playwright · Vitest · Manifest V3 · GitHub Actions
-```
+**What I work with**
+
+- **AI engineering**: LLM agents & tool use (MCP, agent skills), multi-model routing with fallback & cost control, retrieval & semantic memory (embeddings, ChromaDB), BYOK LLM integration
+- **Agentic development**: Claude Code, Codex & Gemini in multi-agent workflows, cross-model code review, test-gated shipping
+- **Quality & observability**: Playwright E2E & visual regression, Vitest, GitHub Actions CI/CD, log-based request tracing
+- **Systems & data**: data pipelines, local-first storage (IndexedDB), webhook infrastructure, self-hosted Linux/Docker
+- **Stack**: TypeScript · Python · React · Node.js · Astro · Vite
 
 ---
 
@@ -40,9 +44,10 @@ A comprehensive reference platform linking official trading card game FAQs, erra
 
 ## 🛠️ Focus & Engineering Values
 
-- **Local-First & Privacy-Respecting Architecture**: Designing software that respects user ownership—offline-capable, zero unnecessary tracking, and client-side data boundaries.
-- **Test-Driven & Deterministic Quality**: Backed by thorough unit testing and deterministic end-to-end visual regression suites (Playwright/Vitest) to catch edge cases early.
-- **Product Craft & Intentional Design**: Thoughtful typography, accessible color contrast (WCAG standards), responsive layouts, and restrained, distraction-free interfaces.
+- **AI-Native, Human-Accountable**: Using agents to ship fast while owning architecture, review, and final judgment. Every AI-written change is verified by tests and a second model.
+- **Local-First & Privacy-Respecting**: Offline-capable software with client-side data boundaries and zero unnecessary tracking.
+- **Deterministic Quality**: Unit, E2E, and visual regression suites in CI to catch regressions before users do.
+- **Product Craft**: Thoughtful typography, WCAG-level contrast, responsive and distraction-free interfaces.
 
 ---
 
