@@ -14,31 +14,18 @@ Software developer and MSc Computational Science student based in Canada. I buil
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### [Promptab](https://github.com/ZanderH-code/promptab) — AI-Native, Local-First New Tab Extension
-> *"Your new tab, designed by your AI. Describe it. Paste it. Done."*
+### [RiftRef](https://riftref.org/) — Searchable Riftbound Rules, Errata & Card Reference Platform
+> *"Official Riftbound cards, FAQs, errata, rules, and rulings — linked into one fast, searchable reference."*
 
-A calm, highly customizable new tab startpage for Chromium and Edge that turns natural-language prompts into custom layouts, themes, typography, and widgets.
+A full-featured reference platform for the Riftbound trading card game that unifies official card catalogs, FAQs, tournament errata, core rules, and articles into a single modern reader.
 
-- **Bring Your Own AI (BYOK)**: Works with any AI assistant (ChatGPT, Claude, Kimi, DeepSeek, Gemini) without proprietary accounts, lock-in, or extra subscription fees. Optional direct API generation with session-only keys.
-- **Local-First & Private**: Zero tracking, zero telemetry, zero developer servers. 100% of shortcuts, settings, wallpapers, and custom CSS remain on the user's device with full JSON export/import and instant undo history.
-- **Dynamic Layout & Theme Engine**: Grid area layout engine (8 signature templates), CSS sandbox with safe-mode recovery, ambient video wallpapers, and an online community theme gallery.
-- **Tech Stack**: React 19, TypeScript, Vite, Playwright E2E (visual regression baselines), Vitest, IndexedDB, Web Locks, Manifest V3.
-- **Links**: [Official Website](https://zanderh-code.github.io/promptab/) · [Theme Gallery](https://zanderh-code.github.io/promptab/gallery/index.json) · [GitHub Repository](https://github.com/ZanderH-code/promptab)
-
----
-
-### [Riftref](https://github.com/ZanderH-code/riftref) — Searchable Rules, Errata & Card Reference Platform
-> *"Searchable official FAQ, errata, rules, and card database with a modern reader."*
-
-A comprehensive reference platform linking official trading card game FAQs, errata, rules, and card catalogs into an instant, high-usability reader.
-
-- **Cross-Content Search & Navigation**: Instant fuzzy search across thousands of cards, rulings, tournament errata, and game mechanics.
-- **Format-Specific Legality**: Granular card detail views showing format-specific bans, rulings, and versioned rules diffs.
-- **Automated Data Pipeline**: Python-driven ingestion and synchronization pipeline keeping structured rule references continuously up to date.
-- **Tech Stack**: TypeScript, Astro, Python, Static Site Generation, GitHub Actions CI/CD.
-- **Links**: [Live Site](https://riftref.org/) · [GitHub Repository](https://github.com/ZanderH-code/riftref)
+- **Unified Cross-Content Search & Card Database**: Instant search across cards, FAQs, errata, and rules, paired with a filterable card gallery and dedicated card detail pages showing format-specific ban status, sourced errata text, and linked rulings.
+- **Automated Source Monitoring & Versioned History**: Daily Python monitoring pipeline tracks official EN/ZH rule PDFs, FAQs, errata, and card galleries, feeding a human-reviewed publishing flow with immutable reference snapshots and source-level diffs.
+- **Multi-Client Data Feeds**: Builds and publishes versioned static data feeds powering the web reader, an offline-first Android companion app, and referee bots.
+- **Tech Stack**: TypeScript, Astro, Python, Static Site Generation, Vitest, Playwright E2E, GitHub Actions CI/CD.
+- **Website**: [riftref.org](https://riftref.org/)
 
 ---
 
